@@ -1,6 +1,6 @@
 # bgg_dataset
 For Collecting Data Assignment 1
-
+Below is a table of the variables in this dataset.
 | Variable         | Class     | Description                                         |
 |------------------|-----------|-----------------------------------------------------|
 | game_id          | character | Unique game identifier                              |
@@ -26,5 +26,7 @@ For Collecting Data Assignment 1
 | average_rating   | double    | Average rating on Board Games Geek (1-10)            |
 | users_rated      | double    | Number of users that rated the game                  |
 
-Since the file is too large for a preview on GitHug web, here is a screenshot overview of what the dataset looks like
+
+Since the file is too large for a preview on GitHug web, here is a screenshot overview of what the dataset looks like:
+
 ![Preview Image](data/preview_image.png)
