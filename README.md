@@ -1,8 +1,10 @@
 # bgg_dataset
 For Collecting Data Assignment 1
 
-This repository is a collection of data on board games on [BoardGameGeek](https://boardgamegeek.com/) (bgg). BoardGameGeek is a comprehensive online platform and community that serves as a hub for board game enthusiasts, providing information, reviews, and forums to explore, discuss, and discover a vast array of board games. This dataset contains detailed information of over 10000 ranked games in the database of bgg as of October 2023.
+## Introduction
+This repository is a collection of data on board games on [BoardGameGeek](https://boardgamegeek.com/) (BGG). BoardGameGeek is a comprehensive online platform and community that serves as a hub for board game enthusiasts, providing information, reviews, and forums to explore, discuss, and discover a vast array of board games. This dataset contains detailed information of over 10000 ranked games in the database of bgg as of October 2023.
 
+## Table of Variables
 Below is a table of the variables in this dataset.
 
 | Variable         | Class     | Description                                         |
@@ -30,7 +32,11 @@ Below is a table of the variables in this dataset.
 | average_rating   | double    | Average rating on Board Games Geek (1-10)            |
 | users_rated      | double    | Number of users that rated the game                  |
 
-
-Since the file is too large for a preview on GitHug web, here is a screenshot overview of what the dataset looks like:
+## Preview Image
+Since the CSV file is too large for preview on GitHug web, here is a screenshot overview of what the dataset looks like:
 
 ![Preview Image](data/preview_image.png)
+
+## Source
+
+This dataset is curated by [SUJAY KAPADNIS](https://www.kaggle.com/datasets/sujaykapadnis/board-games/code) The data is property of BoardGameGeek.
