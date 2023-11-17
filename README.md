@@ -1,6 +1,9 @@
 # bgg_dataset
 For Collecting Data Assignment 1
+This repository contains the data collected on board games on [BoardGameGeek](https://boardgamegeek.com/)(bgg).
+
 Below is a table of the variables in this dataset.
+
 | Variable         | Class     | Description                                         |
 |------------------|-----------|-----------------------------------------------------|
 | game_id          | character | Unique game identifier                              |
