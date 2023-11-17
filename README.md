@@ -2,7 +2,7 @@
 For Collecting Data Assignment 1
 
 ## Introduction
-This repository is a collection of data on board games on [BoardGameGeek](https://boardgamegeek.com/) (BGG). BoardGameGeek is a comprehensive online platform and community that serves as a hub for board game enthusiasts, providing information, reviews, and forums to explore, discuss, and discover a vast array of board games. This dataset contains detailed information of over 10000 ranked games in the database of bgg as of October 2023.
+This repository is a collection of data on board games from [BoardGameGeek](https://boardgamegeek.com/) (BGG). BoardGameGeek is a comprehensive online platform and community that serves as a hub for board game enthusiasts, providing information, reviews, and forums to explore, discuss, and discover a vast array of board games. This dataset contains detailed information of over 10000 ranked games in the database of bgg as of October 2023.
 
 ## Table of Variables
 Below is a table of the variables in this dataset.
