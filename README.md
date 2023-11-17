@@ -25,3 +25,6 @@ For Collecting Data Assignment 1
 | publisher        | character | Company/person who published the game, separated by comma |
 | average_rating   | double    | Average rating on Board Games Geek (1-10)            |
 | users_rated      | double    | Number of users that rated the game                  |
+
+Since the file is too large for a preview on GitHug web, here is a screenshot overview of what the dataset looks like
+![Preview Image](data/preview_image.png)
