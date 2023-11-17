@@ -39,4 +39,4 @@ Since the CSV file is too large for preview on GitHug web, here is a screenshot 
 
 ## Source
 
-This dataset is curated by [SUJAY KAPADNIS](https://www.kaggle.com/datasets/sujaykapadnis/board-games/code) The data is property of BoardGameGeek.
+This dataset is collected and curated by [SUJAY KAPADNIS](https://www.kaggle.com/datasets/sujaykapadnis/board-games/code). All the data is property of BoardGameGeek.
