@@ -1,6 +1,7 @@
 # bgg_dataset
 For Collecting Data Assignment 1
-This repository contains the data collected on board games on [BoardGameGeek](https://boardgamegeek.com/)(bgg).
+
+This repository is a collection of data on board games on [BoardGameGeek](https://boardgamegeek.com/) (bgg). BoardGameGeek is a comprehensive online platform and community that serves as a hub for board game enthusiasts, providing information, reviews, and forums to explore, discuss, and discover a vast array of board games. This dataset contains detailed information of over 10000 ranked games in the database of bgg as of October 2023.
 
 Below is a table of the variables in this dataset.
 
